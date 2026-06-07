@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260607192416YK1I5C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026060719241696OB48</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Deportes alternativos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Conocimiento, investigación y experimentación de deportes alternativos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan Francisco Garrido Jorge</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Vídeo tutorial sobre deportes alternativos para explicar este tipo de deportes a otro alumnado.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780853024321</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq41sjn9-ted0pp197</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjn9-ted0pp197</odePageId>
+      <odeBlockId>block-1779985480705-c0yl8fe36</odeBlockId>
+      <blockName>Deportes alternativos</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjn9-ted0pp197</odePageId>
+          <odeBlockId>block-1779985480705-c0yl8fe36</odeBlockId>
+          <odeIdeviceId>idevice-1779985480703-7ddg53qc3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Deportes alternativos.png" width="1366" height="911" alt="" /></p>
+<p>Con esta Situación de Aprendizaje vais a desarrollar distintas habilidades motrices. Vais a aprender algunas reglas de deportes alternativos y a trabajar en equipo, fomentando valores de respeto y juego limpio. Además, vais crear trabajos digitales a través de Presentaciones de Google y vais a crear un vídeo tutorial para explicar estos deportes alternativos al alumnado de otros cursos. </p>
+<p>Para todo ello, vais a ver unos vídeos para conocer los distintos deportes que vamos a trabajar y a realizar unas fichas y unos cuestionarios para descubrir si habéis entendido las normas básicas de estos deportes alternativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779985480703-7ddg53qc3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Deportes alternativos.png\" width=\"1366\" height=\"911\" alt=\"\" /></p>\n<p>Con esta Situación de Aprendizaje vais a desarrollar distintas habilidades motrices. Vais a aprender algunas reglas de deportes alternativos y a trabajar en equipo, fomentando valores de respeto y juego limpio. Además, vais crear trabajos digitales a través de Presentaciones de Google y vais a crear un vídeo tutorial para explicar estos deportes alternativos al alumnado de otros cursos. </p>\n<p>Para todo ello, vais a ver unos vídeos para conocer los distintos deportes que vamos a trabajar y a realizar unas fichas y unos cuestionarios para descubrir si habéis entendido las normas básicas de estos deportes alternativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnd-9f0g0tc06</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnd-9f0g0tc06</odePageId>
+      <odeBlockId>block-1780000645256-kf5mk1dvd</odeBlockId>
+      <blockName>Consejos digitales</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnd-9f0g0tc06</odePageId>
+          <odeBlockId>block-1780000645256-kf5mk1dvd</odeBlockId>
+          <odeIdeviceId>idevice-1780000645253-u6xwnpwi4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de empezar con el trabajo que tendréis que realizar, os dejo aquí unos consejos sobre algunas precauciones a tener en cuenta cuando utilizamos aplicaciones y páginas web.</p>
+<p>Échales un vistazo y tenlas siempre en cuenta.</p>
+<p><img src="{{context_path}}/content/resources/Tarea 2.3 Infografía Licencias y consejos_page-0001.jpg" width="1250" height="3125" alt="" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780000645253-u6xwnpwi4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de empezar con el trabajo que tendréis que realizar, os dejo aquí unos consejos sobre algunas precauciones a tener en cuenta cuando utilizamos aplicaciones y páginas web.</p>\n<p>Échales un vistazo y tenlas siempre en cuenta.</p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 2.3 Infografía Licencias y consejos_page-0001.jpg\" width=\"1250\" height=\"3125\" alt=\"\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjng-t66l7jcrb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final: Vídeo tutorial</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final: Vídeo tutorial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final: Vídeo tutorial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final: Vídeo tutorial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjng-t66l7jcrb</odePageId>
+      <odeBlockId>block-1780774250277-9zhvnbahp</odeBlockId>
+      <blockName>Vídeo tutorial</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjng-t66l7jcrb</odePageId>
+          <odeBlockId>block-1780774250277-9zhvnbahp</odeBlockId>
+          <odeIdeviceId>idevice-1780774250275-d5iqh4v3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización de la tarea final en la SdA sobre deportes alternativos, que se trata de una presentación y vídeo tutorial, he seleccionado dos herramientas.</p>
+<p>En primer lugar, debéis llevar a cabo una pequeña investigación sobre algunos deportes alternativos y realizar una presentación donde aparezcan distintos aspectos sobre estos deportes como nombre del deporte, número de jugadores, reglas, descripción de cómo se juega, etc... Para ello, vais a utilizar Presentaciones de Google.</p>
+<p>En segundo lugar, vais a elaborar un pequeño vídeo tutorial, que debéis incrustar en la presentación, donde toda la información que habéis descubierto, la incluyáis en un vídeo, facilitando la comprensión. Para esta segunda tarea tenéis que utilizar la herramienta Openshot. También podéis hacer los trabajos trabajos con otras aplicaciones de edición como como Cupcut o Inshot, que sé que algunos y algunas de vosotros ya la utilizáis y conocéis.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780774250275-d5iqh4v3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización de la tarea final en la SdA sobre deportes alternativos, que se trata de una presentación y vídeo tutorial, he seleccionado dos herramientas.</p>\n<p>En primer lugar, debéis llevar a cabo una pequeña investigación sobre algunos deportes alternativos y realizar una presentación donde aparezcan distintos aspectos sobre estos deportes como nombre del deporte, número de jugadores, reglas, descripción de cómo se juega, etc... Para ello, vais a utilizar Presentaciones de Google.</p>\n<p>En segundo lugar, vais a elaborar un pequeño vídeo tutorial, que debéis incrustar en la presentación, donde toda la información que habéis descubierto, la incluyáis en un vídeo, facilitando la comprensión. Para esta segunda tarea tenéis que utilizar la herramienta Openshot. También podéis hacer los trabajos trabajos con otras aplicaciones de edición como como Cupcut o Inshot, que sé que algunos y algunas de vosotros ya la utilizáis y conocéis.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnh-9cpaix3ho</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vídeos de Pinfuvote</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vídeos de Pinfuvote</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vídeos de Pinfuvote</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vídeos de Pinfuvote</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnh-9cpaix3ho</odePageId>
+      <odeBlockId>block-1779998435399-yr7lubuol</odeBlockId>
+      <blockName>Vídeos sobre deportes alternativos</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnh-9cpaix3ho</odePageId>
+          <odeBlockId>block-1779998435399-yr7lubuol</odeBlockId>
+          <odeIdeviceId>idevice-1779998435397-3wxpiu0fg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora en casa debéis de ver los siguientes vídeos que os propongo para que entendáis en qué consiste el Pinfuvote y poder hacer las fichas de ejercicios.</p>
+<p>Primero mirad este vídeo y aprenderéis en qué consiste este deporte.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/mPJSbYybYC4" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Una vez que ya sabéis en qué consiste, mirad este vídeo viendo un partido real de Pinfuvote.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/JdeFjToRr9I" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779998435397-3wxpiu0fg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora en casa debéis de ver los siguientes vídeos que os propongo para que entendáis en qué consiste el Pinfuvote y poder hacer las fichas de ejercicios.</p>\n<p>Primero mirad este vídeo y aprenderéis en qué consiste este deporte.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mPJSbYybYC4\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Una vez que ya sabéis en qué consiste, mirad este vídeo viendo un partido real de Pinfuvote.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/JdeFjToRr9I\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjni-89qo66ul4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Fichas de comprensión</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fichas de comprensión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fichas de comprensión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjni-89qo66ul4</odePageId>
+      <odeBlockId>block-1779998663470-f4qae189r</odeBlockId>
+      <blockName>Fichas de repaso</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjni-89qo66ul4</odePageId>
+          <odeBlockId>block-1779998663470-f4qae189r</odeBlockId>
+          <odeIdeviceId>idevice-1779998663468-bmdhy3vv7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Has visto los vídeos? ¿Crees que lo has comprendido? Entonces realiza las siguientes fichas para repasar lo que has aprendido.</p>
+<p>Pincha en la frase de debajo y realiza la ficha.</p>
+<p><a href="https://www.liveworksheets.com/worksheet/es/educacion-fisica/7412321#" title="">Ficha de Pinfuvote</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779998663468-bmdhy3vv7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Has visto los vídeos? ¿Crees que lo has comprendido? Entonces realiza las siguientes fichas para repasar lo que has aprendido.</p>\n<p>Pincha en la frase de debajo y realiza la ficha.</p>\n<p><a href=\"https://www.liveworksheets.com/worksheet/es/educacion-fisica/7412321#\" title=\"\">Ficha de Pinfuvote</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnj-w7ypk939g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cuestionario</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnj-w7ypk939g</odePageId>
+      <odeBlockId>block-1779998937182-8oost2roe</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnj-w7ypk939g</odePageId>
+          <odeBlockId>block-1779998937182-8oost2roe</odeBlockId>
+          <odeIdeviceId>idevice-1779998937180-p69x9c8pm</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1779998937180-p69x9c8pm" data-evaluationb="false" data-evaluationid="7fe7616b-0df6-4cc0-aa62-73518d6b511e"></div>
+            <div id="frmMainContainer-idevice-1779998937180-p69x9c8pm" class="form-IDevice" data-id="idevice-1779998937180-p69x9c8pm">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Ahora que estamos en clase, debes demostrar lo que has aprendido en casa, así que rellena el siguiente cuestionario sobre lo que sabes del Pinfuvote.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1779998937180-p69x9c8pm">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1779998937180-p69x9c8pm" style="display:none;">
+                      <button  id="frmStartGame-idevice-1779998937180-p69x9c8pm" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1779998937180-p69x9c8pm" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1779998937180-p69x9c8pm" > </div>
+                        <div id="frmCover-idevice-1779998937180-p69x9c8pm" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1779998937180-p69x9c8pm" class="form-results-container inline">
+                        <div id="form-score-idevice-1779998937180-p69x9c8pm" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1779998937180-p69x9c8pm" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1779998937180-p69x9c8pm" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1779998937180-p69x9c8pm" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1779998937180-p69x9c8pm" type="button" value="Reiniciar"
+                            data-id="idevice-1779998937180-p69x9c8pm" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1779998937180-p69x9c8pm" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1779998937180-p69x9c8pm" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1779998937180-p69x9c8pm" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779998937180-p69x9c8pm","evaluation":false,"evaluationID":"7fe7616b-0df6-4cc0-aa62-73518d6b511e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1779998937180-p69x9c8pm","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Ahora que estamos en clase, debes demostrar lo que has aprendido en casa, así que rellena el siguiente cuestionario sobre lo que sabes del Pinfuvote.</p>","questionsData":[{"id":"1779999128751-BYZM4","activityType":"selection","baseText":"<p>¿Qué es el PINFUVOTE?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Un deporte tradicional"],[true,"Un deporte alternativo"],[false,"Un deporte de masas"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999247521-RX50V","activityType":"selection","baseText":"<p>¿Cómo deben ser los equipos en el PINFUVOTE?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Solo de niños o de niñas"],[true,"Obligatoriamente mixtos"],[false,"Da igual si son mixtos o no"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999303152-TFBRK","activityType":"selection","baseText":"<p>¿Qué deportes combina el PINFUVOTE?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Fútbol, Volleyball, Tenis y Ping-Pong"],[false,"Baloncesto, Rugby y Bádminton"],[false,"Atletismo, Pádel y Balonmano"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999349725-S08AB","activityType":"selection","baseText":"<p>¿Qué deben hacer los equipos antes de comenzar un partido?*</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Elegir un capitán"],[false,"Sentarse en el suelo para escuchar el himno"],[true,"Saludarse entre equipos\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999392457-3AO9L","activityType":"selection","baseText":"<p>¿Cuántas veces puede botar el balón entre los pases del mismo equipo?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"No puede botar"],[false,"2 veces"],[true,"Una sola vez"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999426050-3Z4ZR","activityType":"selection","baseText":"<p>¿Se puede golpear el balón con los pies?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Sí"],[false,"No"],[false,"Sólo en el saque"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999503690-Z795P","activityType":"selection","baseText":"<p>¿Desde donde se realiza el saque?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Desde cualquier lugar de la pista\n"],[true,"Desde el círculo central de mi campo\n"],[false,"Desde la esquina\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999547270-JF4QQ","activityType":"selection","baseText":"<p>¿Con qué partes del cuerpo se puede tocar el balón?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Solo con las manos\n"],[false,"Sólo con los pies"],[true,"Con cualquier parte del cuerpo\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999592772-P8M81","activityType":"selection","baseText":"<p>¿Puede un jugador tocar el balón dos veces seguidas?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Sí, siempre que no haya ningún jugador que pueda darle al balón.\n"],[true,"No, nunca.\n"],[false,"Sí, pero solo dos veces.\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999648241-NALKO","activityType":"selection","baseText":"<p>¿Cómo se puede realizar el saque?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Sólo con las manos, golpeándolo\n"],[false,"Sólo con el pie\n"],[true,"Con un lanzamiento o golpeo con cualquier parte del cuerpo\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999694291-VH85B","activityType":"selection","baseText":"<p>¿Cada cuántos saques ganados debe cambiar la persona que saca?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Cada tres saques ganados\n"],[false,"Cada saque\n"],[false,"Nunca se cambia, siempre es el mismo sacador\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999749743-URI32","activityType":"selection","baseText":"<p>¿Cuál es el objetivo principal de este deporte?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Encestar el balón en el círculo contrario\n"],[true,"Que el balón toque dos veces en el campo contrario\n"],[false,"Lanzar el balón lo más lejos posible\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999800299-83JXZ","activityType":"selection","baseText":"<p>El PINFUVOTE es...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"... un deporte de invasión\n"],[false,"... un deporte de lucha\n"],[true,"... un deporte de campo dividido\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999849206-SA161","activityType":"selection","baseText":"<p>¿Qué separa a los dos equipos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Una línea pintada en el suelo\n"],[true,"Una red o cuerda\n"],[false,"Una línea de conos\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999902946-RDV6P","activityType":"selection","baseText":"<p>¿Cuántos golpes puede hacer un equipo antes de pasar el balón?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Tres golpeos\n"],[false,"Diez golpeos\n"],[false,"Un golpeo solamente\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779999956098-WI3AI","activityType":"selection","baseText":"<p>¿Qué valor es muy importante en el PINFUVOTE?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"El trabajo en equipo\n"],[false,"El juego individual\n"],[false,"El ganar por encima de todo\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780000007011-EQTEC","activityType":"selection","baseText":"<p>Si un jugador toca la red...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Se repite el punto\n"],[true,"Se da un punto al equipo contrario\n"],[false,"Se sigue jugando como si nada\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780000048756-MKD58","activityType":"selection","baseText":"<p>La habilidad que se mejora mucho jugando a este deporte es...</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"El golpeo\n"],[false,"La velocidad"],[false,"El equilibrio"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780000106756-2S2GC","activityType":"selection","baseText":"<p>¿Puede un jugador darle dos veces al balón, en la misma jugada si lo toca otro compañero antes?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"No, nunca\n"],[true,"Sí, siempre que no pasemos de los toques máximos\n"],[false,"Sí, esa no es una norma importante\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780000146473-YMBYK","activityType":"selection","baseText":"<p>¿Se puede coger la pelota con las manos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"No, nunca\n"],[false,"Sí"],[true,"Sólo para sacar"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnl-9fz89y011</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Páginas web para trabajo</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Páginas web para trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Páginas web para trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnl-9fz89y011</odePageId>
+      <odeBlockId>block-1780000238186-ers4h38h5</odeBlockId>
+      <blockName>Páginas para investigación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnl-9fz89y011</odePageId>
+          <odeBlockId>block-1780000238186-ers4h38h5</odeBlockId>
+          <odeIdeviceId>idevice-1780000238185-jzcxypoze</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora, para poder hacer el trabajo de investigación con las Presentaciones de Google, te dejo la página oficial de Pinfuvote, aunque debes consultar todas las páginas que necesites para poder realizar la presentación.</p>
+<p>Pincha en las palabras de debajo para entrar en la página.</p>
+<p><a href="https://www.pinfuvote.net/" title="">Página oficial de Pinfuvote</a></p>
+<p>Para hacer el trabajo, debes entrar en Presentaciones de Google para poder realizarlo.</p>
+<p>Además, también os dejo aquí el enlace de alguna página web sin derechos de los que puedes sacar imágenes.</p>
+<p><a href="https://www.pexels.com/es-es/" title="">Imágenes sin derechos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780000238185-jzcxypoze","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora, para poder hacer el trabajo de investigación con las Presentaciones de Google, te dejo la página oficial de Pinfuvote, aunque debes consultar todas las páginas que necesites para poder realizar la presentación.</p>\n<p>Pincha en las palabras de debajo para entrar en la página.</p>\n<p><a href=\"https://www.pinfuvote.net/\" title=\"\">Página oficial de Pinfuvote</a></p>\n<p>Para hacer el trabajo, debes entrar en Presentaciones de Google para poder realizarlo.</p>\n<p>Además, también os dejo aquí el enlace de alguna página web sin derechos de los que puedes sacar imágenes.</p>\n<p><a href=\"https://www.pexels.com/es-es/\" title=\"\">Imágenes sin derechos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnm-a2b3t7akp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenido. ¿Qué tenéis que utilizar?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido. ¿Qué tenéis que utilizar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido. ¿Qué tenéis que utilizar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnm-a2b3t7akp</odePageId>
+      <odeBlockId>block-1780001185447-2yyb41vmw</odeBlockId>
+      <blockName>Curación de contenido</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnm-a2b3t7akp</odePageId>
+          <odeBlockId>block-1780001185447-2yyb41vmw</odeBlockId>
+          <odeIdeviceId>idevice-1780001185446-0j5a9yc2o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Chicos, aquí os dejo unas aplicaciones para que veáis qué páginas vamos a trabajar y qué aplicaciones suelo utilizar en las clases. Podéis echarle un vistazo para que no os perdáis a la hora de ir haciendo los trabajos.</p>
+<p>Actividades y aplicaciones a realizar por vosotros: <a href="https://padlet.com/jgarjor020/curacion-de-contenido-cpycoxr0bqye1mwx" title="">Padlet</a></p>
+<p>Actividades y aplicaciones que uso en las clases: <a href="https://www.symbaloo.com/shared/AAAAAwHP66gAA41_W3R50g==" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780001185446-0j5a9yc2o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Chicos, aquí os dejo unas aplicaciones para que veáis qué páginas vamos a trabajar y qué aplicaciones suelo utilizar en las clases. Podéis echarle un vistazo para que no os perdáis a la hora de ir haciendo los trabajos.</p>\n<p>Actividades y aplicaciones a realizar por vosotros: <a href=\"https://padlet.com/jgarjor020/curacion-de-contenido-cpycoxr0bqye1mwx\" title=\"\">Padlet</a></p>\n<p>Actividades y aplicaciones que uso en las clases: <a href=\"https://www.symbaloo.com/shared/AAAAAwHP66gAA41_W3R50g==\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnn-jtdev381u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización temporal del trabajo a realizar</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización temporal del trabajo a realizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización temporal del trabajo a realizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnn-jtdev381u</odePageId>
+      <odeBlockId>block-1780770910444-7uiybzaps</odeBlockId>
+      <blockName>Organización temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnn-jtdev381u</odePageId>
+          <odeBlockId>block-1780770910444-7uiybzaps</odeBlockId>
+          <odeIdeviceId>idevice-1780770910442-3v9i1t6ra</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Chicos y chicas, para que sepáis qué actividades son las que tenéis que hacer y el orden de las mismas, os dejo una línea temporal sobre las tareas a realizar. Tened en cuenta los números de las actividades y veréis claramente todo lo que necesitáis para llevarlas a cabo.</p>
+<p><img src="{{context_path}}/content/resources/Tarea 7.1 (1).png" width="1024" height="1536" alt="" /></p>
+<p></p>
+<p>Como veis, ahí aparecen algunos de los deportes alternativos que vamos a trabajar. Esta será la referencia a seguir para que no os perdáis por donde vais en nuestra Situación de Aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780770910442-3v9i1t6ra","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Chicos y chicas, para que sepáis qué actividades son las que tenéis que hacer y el orden de las mismas, os dejo una línea temporal sobre las tareas a realizar. Tened en cuenta los números de las actividades y veréis claramente todo lo que necesitáis para llevarlas a cabo.</p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 7.1 (1).png\" width=\"1024\" height=\"1536\" alt=\"\" /></p>\n<p></p>\n<p>Como veis, ahí aparecen algunos de los deportes alternativos que vamos a trabajar. Esta será la referencia a seguir para que no os perdáis por donde vais en nuestra Situación de Aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjno-3iez8uczm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjno-3iez8uczm</odePageId>
+      <odeBlockId>block-1780824698349-s3bv0wd5m</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjno-3iez8uczm</odePageId>
+          <odeBlockId>block-1780824698349-s3bv0wd5m</odeBlockId>
+          <odeIdeviceId>idevice-1780824698347-hkwcrjort</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí os dejo las actividades con los criterios de evaluación que se van a tener en cuenta para calificar vuestro trabajo, tenedlo en cuenta a la hora de realizar el trabajo e implicaros en clase.</p>
+<table border="1" style="width: 100%; height: 4072px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 16.0475%; height: 57px; text-align: center;"><strong>Tarea</strong><br /></td>
+<td style="width: 35.0605%; height: 57px; text-align: center;"><strong>Criterios de evaluación</strong><br /></td>
+<td style="width: 18.4314%; height: 57px; text-align: center;"><strong>Agrupamientos</strong><br /></td>
+<td style="width: 12.0357%; height: 57px; text-align: center;"><strong>Tiempo</strong><br /></td>
+<td style="width: 18.425%; height: 57px; text-align: center;"><strong>Herramienta</strong><br /></td>
+</tr>
+<tr style="height: 345px;">
+<td style="width: 16.0475%; height: 345px; text-align: left;">Visualización de vídeo sobre el deporte alternativo a trabajar.</td>
+<td style="width: 35.0605%; height: 345px; text-align: justify;">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>
+<td style="width: 18.4314%; height: 345px; text-align: center;">Individual</td>
+<td style="width: 12.0357%; height: 345px; text-align: center;">5 - 7 minutos. Depende de la duración del vídeo.</td>
+<td style="width: 18.425%; height: 345px; text-align: center;">Youtube</td>
+</tr>
+<tr style="height: 297px;">
+<td style="width: 16.0475%; height: 297px; text-align: left;">Realización de una ficha relacionada con el vídeo y el deporte alternativo trabajado</td>
+<td style="width: 35.0605%; height: 297px; text-align: justify;">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>
+<td style="width: 18.4314%; height: 297px; text-align: center;">Individual</td>
+<td style="width: 12.0357%; height: 297px; text-align: center;">10 minutos</td>
+<td style="width: 18.425%; height: 297px; text-align: center;">Liveworksheets</td>
+</tr>
+<tr style="height: 225px;">
+<td style="width: 16.0475%; height: 225px; text-align: left;">Realización de un cuestionario en Google Forms</td>
+<td style="width: 35.0605%; height: 225px; text-align: justify;">1.1.b. Reconocer los efectos beneficiosos a nivel físico y mental de la actividad física, lúdica y deportiva, como paso previo para su integración en la vida diaria, analizando situaciones cotidianas.</td>
+<td style="width: 18.4314%; height: 225px; text-align: center;">Individual</td>
+<td style="width: 12.0357%; height: 225px; text-align: center;">10 minutos</td>
+<td style="width: 18.425%; height: 225px; text-align: center;">Google Forms</td>
+</tr>
+<tr style="height: 1537px;">
+<td style="width: 16.0475%; height: 1537px; text-align: left;">Práctica de los diferentes deportes alternativos trabajados</td>
+<td style="width: 35.0605%; height: 1537px; text-align: justify;">
+<p>1.4.b. Identificar y abordar conductas inapropiadas vinculadas al ámbito corporal, la actividad lúdica y deportiva, que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando  posturas de rechazo a la violencia, a la discriminación y a los estereotipos de género, y evitando activamente su reproducción.</p>
+<p>2.2.b. Aplicar principios básicos de toma de decisiones en situaciones lúdicas, juegos modificados y actividades deportivas a partir de la anticipación, ajustándolos a las demandas derivadas de los objetivos motores y a la lógica interna de situaciones individuales, de cooperación, de oposición y de colaboración-oposición, en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</p>
+<p>2.3.b. Adquirir un progresivo control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial.</p>
+<p>4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro.</p>
+</td>
+<td style="width: 18.4314%; height: 1537px; text-align: center;">Grupal</td>
+<td style="width: 12.0357%; height: 1537px; text-align: center;">30 minutos</td>
+<td style="width: 18.425%; height: 1537px; text-align: center;">Materiales de Educación Física</td>
+</tr>
+<tr style="height: 345px;">
+<td style="width: 16.0475%; height: 345px; text-align: left;">Presentación sobre deporte individual</td>
+<td style="width: 35.0605%; height: 345px; text-align: justify;">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>
+<td style="width: 18.4314%; height: 345px; text-align: center;">Pequeño grupo</td>
+<td style="width: 12.0357%; height: 345px; text-align: center;">90 minutos</td>
+<td style="width: 18.425%; height: 345px; text-align: center;">Presentaciones de Google</td>
+</tr>
+<tr style="height: 969px;">
+<td style="width: 16.0475%; height: 969px; text-align: left;">Elaboración de vídeo tutorial</td>
+<td style="width: 35.0605%; height: 969px; text-align: justify;">
+<p>2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</p>
+<p>3.1.b. Participar en actividades de carácter motor, desde la autorregulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones y expresándolas de forma asertiva.</p>
+<p>4.3.b. Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.</p>
+</td>
+<td style="width: 18.4314%; height: 969px; text-align: center;">Pequeño grupo</td>
+<td style="width: 12.0357%; height: 969px; text-align: center;">120 minutos</td>
+<td style="width: 18.425%; height: 969px; text-align: center;">Openshot o similar</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780824698347-hkwcrjort","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejo las actividades con los criterios de evaluación que se van a tener en cuenta para calificar vuestro trabajo, tenedlo en cuenta a la hora de realizar el trabajo e implicaros en clase.</p>\n<table border=\"1\" style=\"width: 100%; height: 4072px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 16.0475%; height: 57px; text-align: center;\"><strong>Tarea</strong><br /></td>\n<td style=\"width: 35.0605%; height: 57px; text-align: center;\"><strong>Criterios de evaluación</strong><br /></td>\n<td style=\"width: 18.4314%; height: 57px; text-align: center;\"><strong>Agrupamientos</strong><br /></td>\n<td style=\"width: 12.0357%; height: 57px; text-align: center;\"><strong>Tiempo</strong><br /></td>\n<td style=\"width: 18.425%; height: 57px; text-align: center;\"><strong>Herramienta</strong><br /></td>\n</tr>\n<tr style=\"height: 345px;\">\n<td style=\"width: 16.0475%; height: 345px; text-align: left;\">Visualización de vídeo sobre el deporte alternativo a trabajar.</td>\n<td style=\"width: 35.0605%; height: 345px; text-align: justify;\">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>\n<td style=\"width: 18.4314%; height: 345px; text-align: center;\">Individual</td>\n<td style=\"width: 12.0357%; height: 345px; text-align: center;\">5 - 7 minutos. Depende de la duración del vídeo.</td>\n<td style=\"width: 18.425%; height: 345px; text-align: center;\">Youtube</td>\n</tr>\n<tr style=\"height: 297px;\">\n<td style=\"width: 16.0475%; height: 297px; text-align: left;\">Realización de una ficha relacionada con el vídeo y el deporte alternativo trabajado</td>\n<td style=\"width: 35.0605%; height: 297px; text-align: justify;\">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>\n<td style=\"width: 18.4314%; height: 297px; text-align: center;\">Individual</td>\n<td style=\"width: 12.0357%; height: 297px; text-align: center;\">10 minutos</td>\n<td style=\"width: 18.425%; height: 297px; text-align: center;\">Liveworksheets</td>\n</tr>\n<tr style=\"height: 225px;\">\n<td style=\"width: 16.0475%; height: 225px; text-align: left;\">Realización de un cuestionario en Google Forms</td>\n<td style=\"width: 35.0605%; height: 225px; text-align: justify;\">1.1.b. Reconocer los efectos beneficiosos a nivel físico y mental de la actividad física, lúdica y deportiva, como paso previo para su integración en la vida diaria, analizando situaciones cotidianas.</td>\n<td style=\"width: 18.4314%; height: 225px; text-align: center;\">Individual</td>\n<td style=\"width: 12.0357%; height: 225px; text-align: center;\">10 minutos</td>\n<td style=\"width: 18.425%; height: 225px; text-align: center;\">Google Forms</td>\n</tr>\n<tr style=\"height: 1537px;\">\n<td style=\"width: 16.0475%; height: 1537px; text-align: left;\">Práctica de los diferentes deportes alternativos trabajados</td>\n<td style=\"width: 35.0605%; height: 1537px; text-align: justify;\">\n<p>1.4.b. Identificar y abordar conductas inapropiadas vinculadas al ámbito corporal, la actividad lúdica y deportiva, que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando  posturas de rechazo a la violencia, a la discriminación y a los estereotipos de género, y evitando activamente su reproducción.</p>\n<p>2.2.b. Aplicar principios básicos de toma de decisiones en situaciones lúdicas, juegos modificados y actividades deportivas a partir de la anticipación, ajustándolos a las demandas derivadas de los objetivos motores y a la lógica interna de situaciones individuales, de cooperación, de oposición y de colaboración-oposición, en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</p>\n<p>2.3.b. Adquirir un progresivo control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial.</p>\n<p>4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro.</p>\n</td>\n<td style=\"width: 18.4314%; height: 1537px; text-align: center;\">Grupal</td>\n<td style=\"width: 12.0357%; height: 1537px; text-align: center;\">30 minutos</td>\n<td style=\"width: 18.425%; height: 1537px; text-align: center;\">Materiales de Educación Física</td>\n</tr>\n<tr style=\"height: 345px;\">\n<td style=\"width: 16.0475%; height: 345px; text-align: left;\">Presentación sobre deporte individual</td>\n<td style=\"width: 35.0605%; height: 345px; text-align: justify;\">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>\n<td style=\"width: 18.4314%; height: 345px; text-align: center;\">Pequeño grupo</td>\n<td style=\"width: 12.0357%; height: 345px; text-align: center;\">90 minutos</td>\n<td style=\"width: 18.425%; height: 345px; text-align: center;\">Presentaciones de Google</td>\n</tr>\n<tr style=\"height: 969px;\">\n<td style=\"width: 16.0475%; height: 969px; text-align: left;\">Elaboración de vídeo tutorial</td>\n<td style=\"width: 35.0605%; height: 969px; text-align: justify;\">\n<p>2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</p>\n<p>3.1.b. Participar en actividades de carácter motor, desde la autorregulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones y expresándolas de forma asertiva.</p>\n<p>4.3.b. Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.</p>\n</td>\n<td style=\"width: 18.4314%; height: 969px; text-align: center;\">Pequeño grupo</td>\n<td style=\"width: 12.0357%; height: 969px; text-align: center;\">120 minutos</td>\n<td style=\"width: 18.425%; height: 969px; text-align: center;\">Openshot o similar</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnq-3u9ltkuqf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnq-3u9ltkuqf</odePageId>
+      <odeBlockId>block-1780825947051-tyyjqvymh</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnq-3u9ltkuqf</odePageId>
+          <odeBlockId>block-1780825947051-tyyjqvymh</odeBlockId>
+          <odeIdeviceId>idevice-1780825947049-0ol2ovp5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas de evaluación que se van a utilizar son los siguientes:</p>
+<p>Para la evaluación inicial, después de visualizar los vídeos previos, se va a utilizar un cuestionario de Google, como el siguiente: <a href="https://docs.google.com/forms/d/e/1FAIpQLScs0du4sKd9fG3qyo1gn0yDvicZM7Y66kEEHHIZXpGs-HENFQ/viewform?usp=sharing&ouid=111196778349553891730" title="">Cuestionario de Google</a></p>
+<p>Para la evaluación de los trabajos realizados en Presentaciones de Google, se va a utilizar la siguiente rúbrica:</p>
+<p><img src="{{context_path}}/content/resources/Tarea 8.1 Rúbrica.png" width="1366" height="911" alt="" /></p>
+<p>Finalmente, para evaluar el vídeo tutorial final, la rúbrica que se va a utilizar es la siguiente:</p>
+<table border="1" style="width: 100%; height: 542px;">
+<tbody>
+<tr style="height: 137px;">
+<td style="width: 19.9694%; text-align: center; height: 137px;"><strong>Aspectos a evaluar</strong><br /></td>
+<td style="width: 19.9694%; height: 137px;">
+<p style="text-align: center;"><strong>Todavía hay que mejorar mucho</strong><br /></p>
+<p style="text-align: center;"><strong>1</strong></p>
+</td>
+<td style="width: 19.9694%; height: 137px;">
+<p style="text-align: center;"><strong>Está bastante bien</strong><br /></p>
+<p style="text-align: center;"><strong>2</strong></p>
+</td>
+<td style="width: 19.9694%; height: 137px;">
+<p style="text-align: center;"><strong>Muy buen trabajo</strong><br /></p>
+<p style="text-align: center;"><strong>3</strong></p>
+</td>
+<td style="width: 19.974%; height: 137px;">
+<p style="text-align: center;"><strong>¡Excelente trabajo!</strong><br /></p>
+<p style="text-align: center;"><strong>4</strong></p>
+</td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 19.9694%; text-align: center; height: 129px;"><strong>Explica bien el deporte</strong><br /></td>
+<td style="width: 19.9694%; text-align: center; height: 129px;">Cuesta entender las reglas y el juego</td>
+<td style="width: 19.9694%; text-align: center; height: 129px;">Explican algunas partes importantes</td>
+<td style="width: 19.9694%; text-align: center; height: 129px;">Explican bien cómo se juega</td>
+<td style="width: 19.974%; text-align: center; height: 129px;">Todo se entiende perfectamente y resulta muy interesante</td>
+</tr>
+<tr style="height: 105px;">
+<td style="width: 19.9694%; height: 105px; text-align: center;"><strong>El vídeo está bien preparado</strong></td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">El vídeo tiene errores o partes confusas</td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">El vídeo se entiende, aunque puede mejorar</td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">El vídeo está ordenado y bien hecho</td>
+<td style="width: 19.974%; height: 105px; text-align: center;">El vídeo está muy cuidado y tiene gran calidad</td>
+</tr>
+<tr style="height: 105px;">
+<td style="width: 19.9694%; height: 105px; text-align: center;"><strong>Enseñan correctamente cómo jugar</strong></td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">Apenas muestran ejemplos prácticos</td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">Enseñan algunas acciones del deporte</td>
+<td style="width: 19.9694%; height: 105px; text-align: center;">Muestran claramente cómo jugar</td>
+<td style="width: 19.974%; height: 105px; text-align: center;">Las explicaciones y demostraciones son excelentes</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9694%; height: 33px; text-align: center;"><strong>El vídeo es creativo y divertido</strong></td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">Resulta poco atractivo</td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">Tiene algunos detalles originales</td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">El vídeo es entretenido y creativo</td>
+<td style="width: 19.974%; height: 33px; text-align: center;">El vídeo es muy original, divertido y sorprendente</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9694%; height: 33px; text-align: center;"><strong>Usan bien las herramientas digitales</strong></td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">Hay bastantes fallos técnicos</td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">Utilizan herramientas básicas</td>
+<td style="width: 19.9694%; height: 33px; text-align: center;">Buen uso de grabación y edición</td>
+<td style="width: 19.974%; height: 33px; text-align: center;">Uso excelente de efectos, imágenes y edición</td>
+</tr>
+<tr>
+<td style="width: 19.9694%; text-align: center;"><strong>Todos participan en el trabajo</strong></td>
+<td style="width: 19.9694%; text-align: center;">Participan muy pocos miembros</td>
+<td style="width: 19.9694%; text-align: center;">Algunos participan más que otros</td>
+<td style="width: 19.9694%; text-align: center;">Casi todos colaboran activamente</td>
+<td style="width: 19.974%; text-align: center;">Todo el grupo participa y trabaja unido</td>
+</tr>
+<tr>
+<td style="width: 19.9694%; text-align: center;"><strong>Se nota el esfuerzo y la dedicación</strong></td>
+<td style="width: 19.9694%; text-align: center;">Poco trabajo o interés</td>
+<td style="width: 19.9694%; text-align: center;">Han trabajado lo necesario</td>
+<td style="width: 19.9694%; text-align: center;">Se nota esfuerzo y ganas de hacerlo bien</td>
+<td style="width: 19.974%; text-align: center;">Han puesto muchísimo interés y dedicación</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780825947049-0ol2ovp5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas de evaluación que se van a utilizar son los siguientes:</p>\n<p>Para la evaluación inicial, después de visualizar los vídeos previos, se va a utilizar un cuestionario de Google, como el siguiente: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScs0du4sKd9fG3qyo1gn0yDvicZM7Y66kEEHHIZXpGs-HENFQ/viewform?usp=sharing&ouid=111196778349553891730\" title=\"\">Cuestionario de Google</a></p>\n<p>Para la evaluación de los trabajos realizados en Presentaciones de Google, se va a utilizar la siguiente rúbrica:</p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 8.1 Rúbrica.png\" width=\"1366\" height=\"911\" alt=\"\" /></p>\n<p>Finalmente, para evaluar el vídeo tutorial final, la rúbrica que se va a utilizar es la siguiente:</p>\n<table border=\"1\" style=\"width: 100%; height: 542px;\">\n<tbody>\n<tr style=\"height: 137px;\">\n<td style=\"width: 19.9694%; text-align: center; height: 137px;\"><strong>Aspectos a evaluar</strong><br /></td>\n<td style=\"width: 19.9694%; height: 137px;\">\n<p style=\"text-align: center;\"><strong>Todavía hay que mejorar mucho</strong><br /></p>\n<p style=\"text-align: center;\"><strong>1</strong></p>\n</td>\n<td style=\"width: 19.9694%; height: 137px;\">\n<p style=\"text-align: center;\"><strong>Está bastante bien</strong><br /></p>\n<p style=\"text-align: center;\"><strong>2</strong></p>\n</td>\n<td style=\"width: 19.9694%; height: 137px;\">\n<p style=\"text-align: center;\"><strong>Muy buen trabajo</strong><br /></p>\n<p style=\"text-align: center;\"><strong>3</strong></p>\n</td>\n<td style=\"width: 19.974%; height: 137px;\">\n<p style=\"text-align: center;\"><strong>¡Excelente trabajo!</strong><br /></p>\n<p style=\"text-align: center;\"><strong>4</strong></p>\n</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 19.9694%; text-align: center; height: 129px;\"><strong>Explica bien el deporte</strong><br /></td>\n<td style=\"width: 19.9694%; text-align: center; height: 129px;\">Cuesta entender las reglas y el juego</td>\n<td style=\"width: 19.9694%; text-align: center; height: 129px;\">Explican algunas partes importantes</td>\n<td style=\"width: 19.9694%; text-align: center; height: 129px;\">Explican bien cómo se juega</td>\n<td style=\"width: 19.974%; text-align: center; height: 129px;\">Todo se entiende perfectamente y resulta muy interesante</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\"><strong>El vídeo está bien preparado</strong></td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">El vídeo tiene errores o partes confusas</td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">El vídeo se entiende, aunque puede mejorar</td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">El vídeo está ordenado y bien hecho</td>\n<td style=\"width: 19.974%; height: 105px; text-align: center;\">El vídeo está muy cuidado y tiene gran calidad</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\"><strong>Enseñan correctamente cómo jugar</strong></td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">Apenas muestran ejemplos prácticos</td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">Enseñan algunas acciones del deporte</td>\n<td style=\"width: 19.9694%; height: 105px; text-align: center;\">Muestran claramente cómo jugar</td>\n<td style=\"width: 19.974%; height: 105px; text-align: center;\">Las explicaciones y demostraciones son excelentes</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\"><strong>El vídeo es creativo y divertido</strong></td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">Resulta poco atractivo</td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">Tiene algunos detalles originales</td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">El vídeo es entretenido y creativo</td>\n<td style=\"width: 19.974%; height: 33px; text-align: center;\">El vídeo es muy original, divertido y sorprendente</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\"><strong>Usan bien las herramientas digitales</strong></td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">Hay bastantes fallos técnicos</td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">Utilizan herramientas básicas</td>\n<td style=\"width: 19.9694%; height: 33px; text-align: center;\">Buen uso de grabación y edición</td>\n<td style=\"width: 19.974%; height: 33px; text-align: center;\">Uso excelente de efectos, imágenes y edición</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%; text-align: center;\"><strong>Todos participan en el trabajo</strong></td>\n<td style=\"width: 19.9694%; text-align: center;\">Participan muy pocos miembros</td>\n<td style=\"width: 19.9694%; text-align: center;\">Algunos participan más que otros</td>\n<td style=\"width: 19.9694%; text-align: center;\">Casi todos colaboran activamente</td>\n<td style=\"width: 19.974%; text-align: center;\">Todo el grupo participa y trabaja unido</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%; text-align: center;\"><strong>Se nota el esfuerzo y la dedicación</strong></td>\n<td style=\"width: 19.9694%; text-align: center;\">Poco trabajo o interés</td>\n<td style=\"width: 19.9694%; text-align: center;\">Han trabajado lo necesario</td>\n<td style=\"width: 19.9694%; text-align: center;\">Se nota esfuerzo y ganas de hacerlo bien</td>\n<td style=\"width: 19.974%; text-align: center;\">Han puesto muchísimo interés y dedicación</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnr-kobr46kt7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnr-kobr46kt7</odePageId>
+      <odeBlockId>block-1780849456637-w2n7ajgl8</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnr-kobr46kt7</odePageId>
+          <odeBlockId>block-1780849456637-w2n7ajgl8</odeBlockId>
+          <odeIdeviceId>idevice-1780849456634-mtfmbvhcv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta guía didáctica se encuentran relacionadas las tareas con criterios de evaluación, saberes básicos y competencias. </p>
+<table border="1" style="width: 100%; height: 2247px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 16.0475%; text-align: center; height: 57px;"><strong>Tareas</strong><br /></td>
+<td style="width: 21.5453%; text-align: center; height: 57px;"><strong>Saberes básicos</strong><br /></td>
+<td style="width: 28.529%; text-align: center; height: 57px;"><strong>Criterios de evaluación </strong><br /></td>
+<td style="width: 33.8782%; text-align: center; height: 57px;"><strong>Competencias específicas</strong><br /></td>
+</tr>
+<tr style="height: 417px;">
+<td style="width: 16.0475%; text-align: center; height: 417px;">Visualización de vídeo sobre el deporte alternativo a trabajar.</td>
+<td style="width: 21.5453%; text-align: center; height: 417px;">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>
+<td style="width: 28.529%; text-align: center; height: 417px;">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>
+<td style="width: 33.8782%; text-align: center; height: 417px;">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>
+</tr>
+<tr style="height: 345px;">
+<td style="width: 16.0475%; text-align: center; height: 345px;">Realización de una ficha relacionada con el vídeo y el deporte alternativo trabajado</td>
+<td style="width: 21.5453%; text-align: center; height: 345px;">EFI.3.E.1. Aportaciones de la cultura motriz a la herencia cultural andaluza. Los deportes como seña de identidad cultural. </td>
+<td style="width: 28.529%; text-align: center; height: 345px;">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>
+<td style="width: 33.8782%; text-align: center; height: 345px;">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>
+</tr>
+<tr style="height: 537px;">
+<td style="width: 16.0475%; text-align: center; height: 537px;">Realización de un cuestionario en Google Forms</td>
+<td style="width: 21.5453%; text-align: center; height: 537px;">EFI.3.A.2. Salud social: aproximación a los efectos de los malos hábitos relacionados con la salud e influencia en la práctica de actividad física. La exigencia del deporte profesional. Aceptación de distintas tipologías corporales, para practicar en igualdad, diversidad de actividades físicodeportivas. </td>
+<td style="width: 28.529%; text-align: center; height: 537px;">1.1.b. Reconocer los efectos beneficiosos a nivel físico y mental de la actividad física, lúdica y deportiva, como paso previo para su integración en la vida diaria, analizando situaciones cotidianas.</td>
+<td style="width: 33.8782%; text-align: center; height: 537px;">1. Adoptar un estilo de vida activo y saludable, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud física, mental y social, así como medidas de responsabilidad individual y colectiva durante la práctica motriz, para interiorizar e integrar hábitos de actividad física sistemática que contribuyan al bienestar.</td>
+</tr>
+<tr style="height: 393px;">
+<td style="text-align: center; height: 858px; width: 16.0475%;" rowspan="4">Práctica de los diferentes deportes alternativos trabajados<br /></td>
+<td style="width: 21.5453%; text-align: center; height: 393px;">EFI.3.D.4. Identificación y rechazo de conductas violentas o contrarias a la convivencia en situaciones motrices.</td>
+<td style="width: 28.529%; text-align: center; height: 393px;">1.4.b. Identificar y abordar conductas inapropiadas vinculadas al ámbito corporal, la actividad lúdica y deportiva, que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando  posturas de rechazo a la violencia, a la discriminación y a los estereotipos de género, y evitando activamente su reproducción.</td>
+<td style="width: 33.8782%; text-align: center; height: 393px;">1. Adoptar un estilo de vida activo y saludable, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud física, mental y social, así como medidas de responsabilidad individual y colectiva durante la práctica motriz, para interiorizar e integrar hábitos de actividad física sistemática que contribuyan al bienestar.</td>
+</tr>
+<tr style="height: 465px;">
+<td style="width: 21.5453%; text-align: center; height: 465px;">EFI.3.B.1. Usos y finalidades: catárticos, lúdico-recreativos, cooperativos, competitivos, agonísticos, funcional, social, expresiva y comunicativa, creativa o de interacción. </td>
+<td style="width: 28.529%; text-align: center; height: 465px;">2.2.b. Aplicar principios básicos de toma de decisiones en situaciones lúdicas, juegos modificados y actividades deportivas a partir de la anticipación, ajustándolos a las demandas derivadas de los objetivos motores y a la lógica interna de situaciones individuales, de cooperación, de oposición y de colaboración-oposición, en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</td>
+<td style="width: 33.8782%; text-align: center; height: 465px;">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 21.5453%; text-align: center; height: 33px;">EFI.3.C.1. Toma de decisiones: selección de acciones en función del entorno en situaciones motrices individuales. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros y compañeras en situaciones cooperativas. Selección de zonas de envío del móvil desde donde sea difícil devolverlo, en situaciones motrices de persecución y de interacción con un móvil. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar desde el que se constituya un apoyo para los demás en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.</td>
+<td style="width: 28.529%; text-align: center; height: 33px;">2.3.b. Adquirir un progresivo control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial.</td>
+<td style="width: 33.8782%; text-align: center; height: 33px;">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>
+</tr>
+<tr>
+<td style="width: 21.5453%; text-align: center;">EFI.3.E.4. Deporte e igualdad y perspectiva de género: sexismo en el deporte amateur y profesional. </td>
+<td style="width: 28.529%; text-align: center;">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>
+<td style="width: 33.8782%; text-align: center;">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 16.0475%;">Presentación sobre deporte individual</td>
+<td style="width: 21.5453%; text-align: center;">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>
+<td style="width: 28.529%; text-align: center;">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>
+<td style="width: 33.8782%; text-align: center;">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 16.0475%;" rowspan="3">Elaboración de vídeo tutorial<br /></td>
+<td style="width: 21.5453%; text-align: center;">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>
+<td style="width: 28.529%; text-align: center;">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>
+<td style="width: 33.8782%; text-align: center;">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>
+</tr>
+<tr>
+<td style="width: 21.5453%; text-align: center;">EFI.3.D.1. Gestión emocional: ansiedad, estrés, ira, tristeza y situaciones motrices. Estrategias de afrontamiento y gestión. Introspección, motivación, capacidad de expresión (asertividad) como medio para superar las diferencias individuales en una práctica, lúdica o deportiva, de todos y para todos.</td>
+<td style="width: 28.529%; text-align: center;">3.1.b. Participar en actividades de carácter motor, desde la autorregulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones y expresándolas de forma asertiva.</td>
+<td style="width: 33.8782%; text-align: center;">3. Desarrollar procesos de autorregulación e interacción en el marco de la práctica motriz, con actitud empática e inclusiva, haciendo uso de habilidades sociales y actitudes de cooperación, respeto, inclusión, trabajo en equipo y deportividad, con independencia de las diferencias etnoculturales, sociales, de género y de habilidad de los participantes, para contribuir a la convivencia social y al compromiso ético en los diferentes espacios en los que se participa.</td>
+</tr>
+<tr>
+<td style="width: 21.5453%; text-align: center;">EFI.3.C.5. Creatividad motriz: identificación de estímulos internos o externos que exijan un reajuste instantáneo de la acción motriz. Apoyo en recursos digitales.</td>
+<td style="width: 28.529%; text-align: center;">4.3.b. Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.</td>
+<td style="width: 33.8782%; text-align: center;">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780849456634-mtfmbvhcv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta guía didáctica se encuentran relacionadas las tareas con criterios de evaluación, saberes básicos y competencias. </p>\n<table border=\"1\" style=\"width: 100%; height: 2247px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 16.0475%; text-align: center; height: 57px;\"><strong>Tareas</strong><br /></td>\n<td style=\"width: 21.5453%; text-align: center; height: 57px;\"><strong>Saberes básicos</strong><br /></td>\n<td style=\"width: 28.529%; text-align: center; height: 57px;\"><strong>Criterios de evaluación </strong><br /></td>\n<td style=\"width: 33.8782%; text-align: center; height: 57px;\"><strong>Competencias específicas</strong><br /></td>\n</tr>\n<tr style=\"height: 417px;\">\n<td style=\"width: 16.0475%; text-align: center; height: 417px;\">Visualización de vídeo sobre el deporte alternativo a trabajar.</td>\n<td style=\"width: 21.5453%; text-align: center; height: 417px;\">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>\n<td style=\"width: 28.529%; text-align: center; height: 417px;\">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>\n<td style=\"width: 33.8782%; text-align: center; height: 417px;\">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>\n</tr>\n<tr style=\"height: 345px;\">\n<td style=\"width: 16.0475%; text-align: center; height: 345px;\">Realización de una ficha relacionada con el vídeo y el deporte alternativo trabajado</td>\n<td style=\"width: 21.5453%; text-align: center; height: 345px;\">EFI.3.E.1. Aportaciones de la cultura motriz a la herencia cultural andaluza. Los deportes como seña de identidad cultural. </td>\n<td style=\"width: 28.529%; text-align: center; height: 345px;\">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>\n<td style=\"width: 33.8782%; text-align: center; height: 345px;\">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>\n</tr>\n<tr style=\"height: 537px;\">\n<td style=\"width: 16.0475%; text-align: center; height: 537px;\">Realización de un cuestionario en Google Forms</td>\n<td style=\"width: 21.5453%; text-align: center; height: 537px;\">EFI.3.A.2. Salud social: aproximación a los efectos de los malos hábitos relacionados con la salud e influencia en la práctica de actividad física. La exigencia del deporte profesional. Aceptación de distintas tipologías corporales, para practicar en igualdad, diversidad de actividades físicodeportivas. </td>\n<td style=\"width: 28.529%; text-align: center; height: 537px;\">1.1.b. Reconocer los efectos beneficiosos a nivel físico y mental de la actividad física, lúdica y deportiva, como paso previo para su integración en la vida diaria, analizando situaciones cotidianas.</td>\n<td style=\"width: 33.8782%; text-align: center; height: 537px;\">1. Adoptar un estilo de vida activo y saludable, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud física, mental y social, así como medidas de responsabilidad individual y colectiva durante la práctica motriz, para interiorizar e integrar hábitos de actividad física sistemática que contribuyan al bienestar.</td>\n</tr>\n<tr style=\"height: 393px;\">\n<td style=\"text-align: center; height: 858px; width: 16.0475%;\" rowspan=\"4\">Práctica de los diferentes deportes alternativos trabajados<br /></td>\n<td style=\"width: 21.5453%; text-align: center; height: 393px;\">EFI.3.D.4. Identificación y rechazo de conductas violentas o contrarias a la convivencia en situaciones motrices.</td>\n<td style=\"width: 28.529%; text-align: center; height: 393px;\">1.4.b. Identificar y abordar conductas inapropiadas vinculadas al ámbito corporal, la actividad lúdica y deportiva, que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando  posturas de rechazo a la violencia, a la discriminación y a los estereotipos de género, y evitando activamente su reproducción.</td>\n<td style=\"width: 33.8782%; text-align: center; height: 393px;\">1. Adoptar un estilo de vida activo y saludable, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud física, mental y social, así como medidas de responsabilidad individual y colectiva durante la práctica motriz, para interiorizar e integrar hábitos de actividad física sistemática que contribuyan al bienestar.</td>\n</tr>\n<tr style=\"height: 465px;\">\n<td style=\"width: 21.5453%; text-align: center; height: 465px;\">EFI.3.B.1. Usos y finalidades: catárticos, lúdico-recreativos, cooperativos, competitivos, agonísticos, funcional, social, expresiva y comunicativa, creativa o de interacción. </td>\n<td style=\"width: 28.529%; text-align: center; height: 465px;\">2.2.b. Aplicar principios básicos de toma de decisiones en situaciones lúdicas, juegos modificados y actividades deportivas a partir de la anticipación, ajustándolos a las demandas derivadas de los objetivos motores y a la lógica interna de situaciones individuales, de cooperación, de oposición y de colaboración-oposición, en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</td>\n<td style=\"width: 33.8782%; text-align: center; height: 465px;\">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 21.5453%; text-align: center; height: 33px;\">EFI.3.C.1. Toma de decisiones: selección de acciones en función del entorno en situaciones motrices individuales. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros y compañeras en situaciones cooperativas. Selección de zonas de envío del móvil desde donde sea difícil devolverlo, en situaciones motrices de persecución y de interacción con un móvil. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar desde el que se constituya un apoyo para los demás en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.</td>\n<td style=\"width: 28.529%; text-align: center; height: 33px;\">2.3.b. Adquirir un progresivo control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial.</td>\n<td style=\"width: 33.8782%; text-align: center; height: 33px;\">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>\n</tr>\n<tr>\n<td style=\"width: 21.5453%; text-align: center;\">EFI.3.E.4. Deporte e igualdad y perspectiva de género: sexismo en el deporte amateur y profesional. </td>\n<td style=\"width: 28.529%; text-align: center;\">4.2.b. Valorar el deporte como fenómeno cultural analizando críticamente los estereotipos de género o capacidad y los comportamientos sexistas que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro. </td>\n<td style=\"width: 33.8782%; text-align: center;\">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>\n</tr>\n<tr>\n<td style=\"text-align: center; width: 16.0475%;\">Presentación sobre deporte individual</td>\n<td style=\"width: 21.5453%; text-align: center;\">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>\n<td style=\"width: 28.529%; text-align: center;\">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>\n<td style=\"width: 33.8782%; text-align: center;\">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>\n</tr>\n<tr>\n<td style=\"text-align: center; width: 16.0475%;\" rowspan=\"3\">Elaboración de vídeo tutorial<br /></td>\n<td style=\"width: 21.5453%; text-align: center;\">EFI.3.B.4. Planificación y autorregulación de proyectos motores: seguimiento y valoración durante el proceso y del resultado. Utilización de recursos digitales.</td>\n<td style=\"width: 28.529%; text-align: center;\">2.1.b. Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.</td>\n<td style=\"width: 33.8782%; text-align: center;\">2. Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.</td>\n</tr>\n<tr>\n<td style=\"width: 21.5453%; text-align: center;\">EFI.3.D.1. Gestión emocional: ansiedad, estrés, ira, tristeza y situaciones motrices. Estrategias de afrontamiento y gestión. Introspección, motivación, capacidad de expresión (asertividad) como medio para superar las diferencias individuales en una práctica, lúdica o deportiva, de todos y para todos.</td>\n<td style=\"width: 28.529%; text-align: center;\">3.1.b. Participar en actividades de carácter motor, desde la autorregulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones y expresándolas de forma asertiva.</td>\n<td style=\"width: 33.8782%; text-align: center;\">3. Desarrollar procesos de autorregulación e interacción en el marco de la práctica motriz, con actitud empática e inclusiva, haciendo uso de habilidades sociales y actitudes de cooperación, respeto, inclusión, trabajo en equipo y deportividad, con independencia de las diferencias etnoculturales, sociales, de género y de habilidad de los participantes, para contribuir a la convivencia social y al compromiso ético en los diferentes espacios en los que se participa.</td>\n</tr>\n<tr>\n<td style=\"width: 21.5453%; text-align: center;\">EFI.3.C.5. Creatividad motriz: identificación de estímulos internos o externos que exijan un reajuste instantáneo de la acción motriz. Apoyo en recursos digitales.</td>\n<td style=\"width: 28.529%; text-align: center;\">4.3.b. Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.</td>\n<td style=\"width: 33.8782%; text-align: center;\">4. Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones estéticas y creativas a la cultura tradicional y contemporánea, para integrarlas dentro del repertorio de actuaciones motrices que se utilizan regularmente en la vida cotidiana.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq41sjnt-qtqbdnn84</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq41sjnt-qtqbdnn84</odePageId>
+      <odeBlockId>block-1780851599639-by9ckl7k8</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq41sjnt-qtqbdnn84</odePageId>
+          <odeBlockId>block-1780851599639-by9ckl7k8</odeBlockId>
+          <odeIdeviceId>idevice-1780851599635-dzo4irh6j</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Deportes alternativos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juan Francisco Garrido Jorge</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
